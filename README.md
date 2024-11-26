@@ -84,6 +84,7 @@ Proyek ini adalah implementasi sederhana dari sistem pembayaran dari take home t
 1. **Jalankan Server Lokal**
    ```bash
    php artisan serve
+   php artisan queue:work
    ```
 
 2. **Akses URL**
